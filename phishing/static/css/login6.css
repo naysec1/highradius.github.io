@@ -1,0 +1,163 @@
+div#container {
+	margin-left: 31.46%;
+	margin-right: auto;
+	width: 500px;
+	text-align: left;
+}
+
+.loginBody {
+	background-image: url("../images/loginbg.jpg") !important;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.alreadyLoginBody {
+	background-image: url("../images/loginbg.jpg") !important;
+	background-size: 100% 100%;
+	min-height:100vh;
+	background-repeat: no-repeat;
+}
+
+.anchorButton  span {
+	color: #5ea9dd !important;
+	padding: 0 !important;
+}
+
+.anchorButton,.anchorButton:hover,.anchorButton.x-btn-pressed {
+	background-color: transparent !important;
+	text-decoration: none !important;
+	color: #5ea9dd !important;
+	padding: 0 !important;
+	border: 0 !important;
+}
+
+.anchorButton1  span {
+	color: #666 !important;
+	padding: 0 !important;
+  
+}
+
+.anchorButton1,.anchorButton1:hover,.anchorButton1.x-btn-pressed {
+	background-color: transparent !important;
+	text-decoration: none !important;
+	padding: 0 !important;
+	color: #666 !important;
+	margin-bottom:10px;
+	border: 0 !important;
+}
+.submitButton.x-btn-disabled{
+	background-color: #bdbdbd !important;
+}
+.submitButton {
+	border: 0 !important;
+	padding: 2px 0px 2px 0px !important;
+	border-radius:6px;
+	background-color: #5ea9dd !important;
+	margin:10px auto !important;
+	display:block;
+	letter-spacing:1px;
+}
+.submitButton span{
+	color:#fff;
+	font-size:11px !important;
+}
+.formDiv {
+	margin-left: 0px;
+	padding-left: 0px;
+	width: 500px;
+	padding-top: 10px;
+}
+
+.x-form-item-label-default {
+	font-weight: 400 !important;
+	font-family: "Helvetica Neue", helvetica, arial, verdana,
+		sans-serif !important;
+}
+
+.x-panel-body-default {
+	font-weight: 400 !important;
+	font-family: "Helvetica Neue", helvetica, arial, verdana,
+		sans-serif !important;
+}
+
+.x-panel-header-title-default {
+	font-family: "Helvetica Neue", helvetica, arial, verdana,
+		sans-serif !important;
+}
+
+.x-btn-inner-default-toolbar-small {
+	font-family: "Helvetica Neue", helvetica, arial, verdana,
+		sans-serif !important;
+}
+
+.x-btn-inner-default-small {
+	font-family: "Helvetica Neue", helvetica, arial, verdana,
+		sans-serif !important;
+}
+
+.x-body {
+	font-family: "Helvetica Neue", helvetica, arial, verdana,
+		sans-serif !important;
+}
+
+.x-form-text-default {
+	font-family: "Helvetica Neue", helvetica, arial, verdana,
+		sans-serif !important;
+}
+.footer{
+	margin-left:5%;
+	padding-top:16% !important;
+}
+.centerAlign{
+	margin:10px auto !important;
+}
+.rememberUserName{
+    margin-left: 30% !important;
+    padding-left:20px;
+}    
+
+table#hrfooter {
+    border: 1px solid #747474 !important;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+     width:450px;
+    font-family: sans-serif;
+    font-size: 10px;
+    line-height: 10px;
+    background-image:none !important; 
+}
+.poweredBy{
+	display:none;
+}
+div#hrlogo {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-image: url(../images/HRLogo_6.png);
+	height:75px;
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+  }
+
+div#termsCondition{
+	padding-left : 60px;
+	padding-right : 60px;
+	font-size : 12px;	
+}             
+
+
+#welcomeMessage {
+	display:none !important;
+}
+
+.x-window-body-default {
+	font-family: 'Helvetica Neue', helvetica, arial, verdana, sans-serif !important;
+}
+
+.x-message-box>.x-window-body {
+	overflow: visible !important;
+}
+#disclaimerMessage{
+	vertical-align: text-top;
+	padding-top:3px;
+}
